@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  helloword
-//
-//  Created by 신혜리 on 2021/05/15.
-//
 
 import UIKit
 
