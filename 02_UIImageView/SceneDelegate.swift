@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  BackgroundImage
 //
-//  Created by 신혜리 on 2021/08/26.
+//  Created by yonery on 2021/08/26.
 //
 
 import UIKit
